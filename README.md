@@ -1,6 +1,6 @@
 # Nest.js + TypeORM + PostgreSQL Backend
 
-This repository contains a robust server-side application built with **Nest.js**, **TypeScript**, and **PostgreSQL**. The project demonstrates a modular architecture, clean separation of concerns using Services and Controllers, and seamless database integration using TypeORM.
+Robust server-side application built with **Nest.js**, **TypeScript**, and **PostgreSQL**. The project demonstrates a modular architecture, clean separation of concerns using Services and Controllers, and seamless database integration using TypeORM.
 
 ## ✨ Key Features
 
