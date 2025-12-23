@@ -34,8 +34,8 @@ This repository contains a robust server-side application built with **Nest.js**
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/vahid-nejad/nest-project.git](https://github.com/vahid-nejad/nest-project.git)
-   cd nest-project
+   git clone https://github.com/iiMoaaz/NestJS_TypeORM_Docker_PostgreSQL.git
+   cd NestJS_TypeORM_Docker_PostgreSQL
 
 ### 🚀 Run the Application
 
