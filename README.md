@@ -37,16 +37,21 @@ This repository contains a robust server-side application built with **Nest.js**
    git clone [https://github.com/vahid-nejad/nest-project.git](https://github.com/vahid-nejad/nest-project.git)
    cd nest-project
 
+### 🚀 Run the Application
 
-# Development mode
-npm run start:dev
+| Mode | Command |
+| :--- | :--- |
+| **Development** | `npm run start:dev` |
+| **Production** | `npm run start:prod` |
 
-# Production mode
-npm run start:prod
+---
 
+### 📂 Project Structure
+
+```text
 src/
-├── modules/          # Feature modules (e.g., Users, Products)
-├── entities/         # TypeORM database models
-├── dtos/             # Data Transfer Objects for validation
-├── services/         # Business logic layer
-└── controllers/      # API route handlers
+ ├── modules/     # Feature modules (e.g., Users, Products)
+ ├── entities/    # TypeORM database models
+ ├── dtos/        # Data Transfer Objects for validation
+ ├── services/    # Business logic layer
+ └── controllers/ # API route handlers
